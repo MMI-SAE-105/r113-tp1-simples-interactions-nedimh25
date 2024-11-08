@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : HALEPOVIC
+- prénom : NEDIM
+- URL Netlify : https://app.netlify.com/teams/nedimh25/sites
 
 # Travail
 
